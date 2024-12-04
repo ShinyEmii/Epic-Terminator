@@ -1,0 +1,6 @@
+.vs/
+x64/
+kiero/**/*.sln
+kiero/**/*.vcxproj
+kiero/**/*.vcxproj.filters
+kiero/**/*.vcxproj.user
